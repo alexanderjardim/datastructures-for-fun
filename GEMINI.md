@@ -13,6 +13,7 @@ You can provide specific instructions for Gemini here. For example:
 -   **Coding Style:** "Please follow the PEP 8 style guide for Python."
 -   **Testing:** "Always run the tests in the `tests` directory after making changes."
 -   **Committing:** "Always use the commit message file strategy to write commit messages. Create a temporary file with the commit message and use `git commit -F <file>`."
+-   **Git Commands:** "Do not ask for permission to run `git status`, `git add`, and `git commit` commands."
 
 ## Running Tests
 
