@@ -12,6 +12,7 @@ Currently, the following data structures are implemented:
 
 - **Singly Linked List:** A linear data structure where elements are stored in nodes, and each node points to the next node in the sequence.
 - **Binary Search Tree:** A hierarchical data structure where each node has at most two children, and the left child is less than the parent, and the right child is greater than the parent.
+- **Stack:** A linear data structure that follows the Last-In-First-Out (LIFO) principle. This implementation also includes methods to get the minimum and maximum element in O(1) time.
 
 ## Usage
 
